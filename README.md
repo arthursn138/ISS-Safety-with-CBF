@@ -1,5 +1,6 @@
 # CDC-2022-ISS-Safety-with-CBF
-Work buit with help from Hassan Almubarak (DDP ad barriers codebase)
+Work buit with help from Hassan Almubarak (DDP ad barriers codebase).
+
 Refer to https://arxiv.org/abs/2102.10253 and https://arxiv.org/abs/2105.14608, and utilize proper citation:
 
 	@article{Almubarak_2022,
